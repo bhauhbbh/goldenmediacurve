@@ -402,7 +402,7 @@ margin-top: 3rem;
 
 .cta-section {
     position: relative;
-    height: 80vh; /* Reduced from 100vh to 80vh */
+    height: 60vh; /* Reduced from 100vh to 80vh */
     display: flex;
     justify-content: center;
     align-items: center;
