@@ -170,3 +170,115 @@ button:hover {
         margin: 1rem 0;
     }
 }
+
+/* Who We Are Section Styles */
+
+.who-we-are {
+    display: flex;
+    padding: 5rem 5%;
+    background-color: #ffffff;
+    color: #333333;
+    justify-content: center; /* Center the content horizontally */
+}
+
+.who-we-are .content-wrapper {
+    display: flex;
+    max-width: 1200px; /* Adjust this value as needed */
+    width: 100%;
+}
+
+.who-we-are .content {
+    flex: 1;
+    padding-right: 2rem;
+}
+
+.who-we-are h2 {
+    font-family: 'Gilroy', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 900;
+    margin-bottom: 1rem;
+    position: relative;
+}
+
+.who-we-are h2::before {
+    content: '';
+    position: absolute;
+    top: -1rem;
+    left: 0;
+    width: 3rem;
+    height: 4px;
+    background: linear-gradient(to right, #00ffff, #0080ff);
+}
+
+.who-we-are .intro {
+    font-size: 1.2rem;
+    color: #666666;
+    margin-bottom: 2rem;
+}
+
+.who-we-are .feature {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 1.5rem;
+}
+
+.who-we-are .icon {
+    width: 3.5rem;
+    height: 3.5rem;
+    margin: 2rem;
+    flex-shrink: 0;
+}
+
+.who-we-are .feature p {
+    font-size: 1.1rem;
+    line-height: 1.5;
+    color:#6f6f6f;
+}
+
+.who-we-are .image {
+    flex: 1;
+}
+
+.who-we-are .image img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Responsive styles for smaller screens */
+@media (max-width: 768px) {
+    .who-we-are {
+        padding: 3rem 5%;
+    }
+
+    .who-we-are .content-wrapper {
+        flex-direction: column;
+    }
+
+    .who-we-are .content {
+        padding-right: 0;
+        margin-bottom: 2rem;
+    }
+
+    .who-we-are h2 {
+        font-size: 2rem;
+    }
+
+    .who-we-are .intro {
+        font-size: 1.1rem;
+    }
+
+    .who-we-are .feature {
+        margin-bottom: 1rem;
+    }
+
+    .who-we-are .icon {
+        width: 1.5rem;
+        height: 1.5rem;
+    }
+
+    .who-we-are .feature p {
+        font-size: 0.9rem;
+    }
+}
