@@ -1,0 +1,92 @@
+{
+    "contact_email": "info@goldencurvemedia.com",
+    "contact_address": "Hsr layout, Bengaluru, India",
+    "version": "1.0",
+    "identifiers": [],
+    "sellers": [
+      {
+        "seller_id": "8001",
+        "seller_type": "PUBLISHER",
+        "domain": "adviddo.com",
+        "name": "adviddo.com"
+      },
+      {
+        "seller_id": "8002",
+        "seller_type": "PUBLISHER",
+        "domain": "clipmeupmedia.com",
+        "name": "clipmeupmedia.com"
+      },
+      {
+        "seller_id": "8003",
+        "seller_type": "PUBLISHER",
+        "domain": "megadilla.co",
+        "name": "megadilla.co"
+      },
+      {
+        "seller_id": "8004",
+        "seller_type": "PUBLISHER",
+        "domain": "tvsourcer.com",
+        "name": "tvsourcer.com"
+      },
+      {
+        "seller_id": "8005",
+        "seller_type": "PUBLISHER",
+        "domain": "plexpeer.com",
+        "name": "plexpeer.com"
+      },
+      {
+        "seller_id": "8006",
+        "seller_type": "PUBLISHER",
+        "domain": "smartlinetv.com",
+        "name": "smartlinetv.com"
+      },
+      {
+        "seller_id": "8013",
+        "seller_type": "PUBLISHER",
+        "domain": "popstaronline.com",
+        "name": "popstaronline.com"
+      },
+      {
+        "seller_id": "8015",
+        "seller_type": "PUBLISHER",
+        "domain": "avo.tv",
+        "name": "avo.tv"
+      },
+      {
+        "seller_id": "8016",
+        "seller_type": "PUBLISHER",
+        "domain": "blueplanetmediallc.com",
+        "name": "blueplanetmediallc.com"
+      },
+      {
+        "seller_id": "8017",
+        "seller_type": "PUBLISHER",
+        "domain": "pharoscode.co",
+        "name": "pharoscode.co"
+      },
+      {
+        "seller_id": "9003",
+        "seller_type": "INTERMEDIARY",
+        "domain": "plex.tv",
+        "name": "plex.tv"
+      },
+      {
+        "seller_id": "9021",
+        "seller_type": "INTERMEDIARY",
+        "domain": "api.ondemandkorea.com",
+        "name": "api.ondemandkorea.com"
+      },
+      {
+        "seller_id": "9043",
+        "seller_type": "INTERMEDIARY",
+        "domain": "classicstreammedia.com",
+        "name": "classicstreammedia.com"
+      },
+      {
+        "seller_id": "9048",
+        "seller_type": "INTERMEDIARY",
+        "domain": "classicmovievault.com",
+        "name": "classicmovievault.com"
+      }
+    ]
+  }
